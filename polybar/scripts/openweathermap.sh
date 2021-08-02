@@ -37,7 +37,7 @@ get_icon() {
 
 # }
 
-KEY="d315a97725e6c66f5d832202268dd7ec"
+KEY=""
 CITY="Porto Alegre,BR"
 UNITS="metric"
 SYMBOL="°"
